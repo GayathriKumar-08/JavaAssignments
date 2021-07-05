@@ -1,0 +1,5 @@
+#PropertiesEx
+#Mon Jul 05 15:47:03 IST 2021
+uname=abc@123
+accesskey=hello123
+pass=pass123
